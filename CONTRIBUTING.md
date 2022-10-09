@@ -5,4 +5,5 @@ Rohan Gupta
 <br>
 
 <H1> Contributors </H1>
-<li>*name*</li>
+
+<li>1. Shivam Garg (Github Profile: - https://github.com/Shivam311201) </li>
